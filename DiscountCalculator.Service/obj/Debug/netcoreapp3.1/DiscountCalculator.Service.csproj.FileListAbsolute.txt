@@ -1,0 +1,9 @@
+C:\Users\shubh\Source\Repos\ShubhamPali786\Discount-Calculator\DiscountCalculator.Service\bin\Debug\netcoreapp3.1\DiscountCalculator.Service.deps.json
+C:\Users\shubh\Source\Repos\ShubhamPali786\Discount-Calculator\DiscountCalculator.Service\bin\Debug\netcoreapp3.1\DiscountCalculator.Service.dll
+C:\Users\shubh\Source\Repos\ShubhamPali786\Discount-Calculator\DiscountCalculator.Service\bin\Debug\netcoreapp3.1\DiscountCalculator.Service.pdb
+C:\Users\shubh\Source\Repos\ShubhamPali786\Discount-Calculator\DiscountCalculator.Service\obj\Debug\netcoreapp3.1\DiscountCalculator.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shubh\Source\Repos\ShubhamPali786\Discount-Calculator\DiscountCalculator.Service\obj\Debug\netcoreapp3.1\DiscountCalculator.Service.AssemblyInfoInputs.cache
+C:\Users\shubh\Source\Repos\ShubhamPali786\Discount-Calculator\DiscountCalculator.Service\obj\Debug\netcoreapp3.1\DiscountCalculator.Service.AssemblyInfo.cs
+C:\Users\shubh\Source\Repos\ShubhamPali786\Discount-Calculator\DiscountCalculator.Service\obj\Debug\netcoreapp3.1\DiscountCalculator.Service.csproj.CoreCompileInputs.cache
+C:\Users\shubh\Source\Repos\ShubhamPali786\Discount-Calculator\DiscountCalculator.Service\obj\Debug\netcoreapp3.1\DiscountCalculator.Service.dll
+C:\Users\shubh\Source\Repos\ShubhamPali786\Discount-Calculator\DiscountCalculator.Service\obj\Debug\netcoreapp3.1\DiscountCalculator.Service.pdb
