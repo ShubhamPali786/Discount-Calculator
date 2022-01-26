@@ -34,3 +34,8 @@ C:\Users\shubh\Source\Repos\ShubhamPali786\Discount-Calculator\DiscountCalculato
 C:\Users\shubh\Source\Repos\ShubhamPali786\Discount-Calculator\DiscountCalculator\obj\Debug\netcoreapp3.1\DiscountCalculator.dll
 C:\Users\shubh\Source\Repos\ShubhamPali786\Discount-Calculator\DiscountCalculator\obj\Debug\netcoreapp3.1\DiscountCalculator.pdb
 C:\Users\shubh\Source\Repos\ShubhamPali786\Discount-Calculator\DiscountCalculator\obj\Debug\netcoreapp3.1\DiscountCalculator.genruntimeconfig.cache
+C:\Users\shubh\Source\Repos\ShubhamPali786\Discount-Calculator\DiscountCalculator\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\shubh\Source\Repos\ShubhamPali786\Discount-Calculator\DiscountCalculator\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\shubh\Source\Repos\ShubhamPali786\Discount-Calculator\DiscountCalculator\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\shubh\Source\Repos\ShubhamPali786\Discount-Calculator\DiscountCalculator\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\shubh\Source\Repos\ShubhamPali786\Discount-Calculator\DiscountCalculator\obj\Debug\netcoreapp3.1\DiscountCalculator.MvcApplicationPartsAssemblyInfo.cs
